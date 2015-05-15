@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <html>
 <head>
 	<title>TESTだよん</title>
@@ -10,3 +11,6 @@
 		<h2>kokokokoko</h2>
 </body>
 </html>
+=======
+
+>>>>>>> d23cfbd594d8389de560507dea6679d8bdb771ec
