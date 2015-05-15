@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <html>
 <head>
 	<title>TESTだよん</title>
@@ -8,9 +7,7 @@
 	<br>
 	<h1><?php echo("phpで出力したよ～ん"); ?><h1>
 	    <h2><?php echo("git pushできたよ〜ん");?><h2>
-		<h2>kokokokoko</h2>
+	    <br>
+	    <h1>これでチュートリアル完了</h1>
 </body>
 </html>
-=======
-
->>>>>>> d23cfbd594d8389de560507dea6679d8bdb771ec
